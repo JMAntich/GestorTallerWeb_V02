@@ -1,0 +1,5 @@
+node_modules/
+server/taller.db
+server/taller.db-wal
+server/taller.db-shm
+*.log
